@@ -15,12 +15,14 @@ nav {
 }
 
 ul {
-  border: 2px solid red;
+  border-radius: 1rem;
 }
 
 li {
-  background-color: blueviolet;
-  padding: 0.75rem 2rem;
+  background-color: #7c3aed;
+  padding: 0.6rem 1.2rem;
   color: white;
+  border-radius: 8px;
+  font-size: large;
 }
 </style>
